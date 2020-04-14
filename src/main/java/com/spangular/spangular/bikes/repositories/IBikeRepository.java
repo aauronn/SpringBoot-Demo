@@ -1,8 +1,8 @@
-package com.spangular.spangular.repositories;
+package com.spangular.spangular.bikes.repositories;
 
 import java.util.UUID;
 
-import com.spangular.spangular.models.Bike;
+import com.spangular.spangular.bikes.models.Bike;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

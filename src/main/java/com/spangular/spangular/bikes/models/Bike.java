@@ -1,4 +1,4 @@
-package com.spangular.spangular.models;
+package com.spangular.spangular.bikes.models;
 
 import java.math.BigDecimal;
 import java.sql.Date;
