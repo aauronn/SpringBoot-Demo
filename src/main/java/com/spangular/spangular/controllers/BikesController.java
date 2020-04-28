@@ -3,8 +3,8 @@ package com.spangular.spangular.controllers;
 import java.util.List;
 import java.util.UUID;
 
-import com.spangular.spangular.bikes.repositories.IBikeRepository;
-import com.spangular.spangular.bikes.models.Bike;
+import com.spangular.spangular.database.sqlserver.models.Bike;
+import com.spangular.spangular.database.sqlserver.repositories.IBikeRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
