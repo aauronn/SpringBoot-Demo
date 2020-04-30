@@ -23,5 +23,25 @@
     "name": "sqlserver.datasource.password",
     "type": "java.lang.String",
     "description": "A description for 'sqlserver.datasource.password'"
+  },
+  {
+    "name": "amazon.dynamodb.endpoint",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.dynamodb.endpoint'"
+  },
+  {
+    "name": "amazon.aws.accesskey",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.aws.accesskey'"
+  },
+  {
+    "name": "amazon.aws.secretkey",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.aws.secretkey'"
+  },
+  {
+    "name": "amazon.aws.sessiontoken",
+    "type": "java.lang.String",
+    "description": "A description for 'amazon.aws.sessiontoken'"
   }
 ]}
